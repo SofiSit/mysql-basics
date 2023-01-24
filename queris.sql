@@ -233,8 +233,8 @@ CREATE TABLE `stations` (
     `id` BIGINT(20) UNSIGNED NOT NULL AUTO_INCREMENT,
 
     `name` VARCHAR(50) NOT NULL,
-    -- `icon` VARCHAR(100) NOT NULL,
-PRIMARY KEY(id)
+
+     PRIMARY KEY(id)
     
 ) 
 
